@@ -1,6 +1,6 @@
 # GPSSpeedo4<br>
 Basic FSensor linear accelerator <br>
-this code has the same Pref's setting error as https://github.com/KalebKE/AccelerationExplorer <br>
+this code has the same Pref's setting error as https://github.com/KalebKE/AccelerationExplorer where i got the code from<br>
 When Enabled Linear Accel LPF , Enable Complimentry Fusion or Enable Kalman Fusion are set to On the PrefUtils activity crashes<br>
 the setting are set <br>
 <pre>
